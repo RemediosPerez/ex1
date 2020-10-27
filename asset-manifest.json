@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ex1/static/css/main.21bd0918.chunk.css",
+    "main.js": "/ex1/static/js/main.073c0bac.chunk.js",
+    "main.js.map": "/ex1/static/js/main.073c0bac.chunk.js.map",
+    "runtime-main.js": "/ex1/static/js/runtime-main.dfebd1d6.js",
+    "runtime-main.js.map": "/ex1/static/js/runtime-main.dfebd1d6.js.map",
+    "static/js/2.f5df116d.chunk.js": "/ex1/static/js/2.f5df116d.chunk.js",
+    "static/js/2.f5df116d.chunk.js.map": "/ex1/static/js/2.f5df116d.chunk.js.map",
+    "index.html": "/ex1/index.html",
+    "precache-manifest.54207bb63fdf30f06f030ae8ca6770d2.js": "/ex1/precache-manifest.54207bb63fdf30f06f030ae8ca6770d2.js",
+    "service-worker.js": "/ex1/service-worker.js",
+    "static/css/main.21bd0918.chunk.css.map": "/ex1/static/css/main.21bd0918.chunk.css.map",
+    "static/js/2.f5df116d.chunk.js.LICENSE.txt": "/ex1/static/js/2.f5df116d.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/ex1/static/media/vineyard.e78d3d05.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfebd1d6.js",
+    "static/js/2.f5df116d.chunk.js",
+    "static/css/main.21bd0918.chunk.css",
+    "static/js/main.073c0bac.chunk.js"
+  ]
+}
